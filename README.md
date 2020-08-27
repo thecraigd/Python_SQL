@@ -13,11 +13,11 @@ Using [MySQL Connector](https://dev.mysql.com/doc/connector-python/en/) and Pyth
 
 ## Introduction
 
-This notebook accompanies [this tutorial]() I wrote for [freeCodeCamp](https://www.freecodecamp.org/).
+This repo accompanies [this tutorial]() I wrote for [freeCodeCamp](https://www.freecodecamp.org/).
 
-The notebook takes the reader step-by-step through all the processes involved with using Python and the [MySQL Connector](https://dev.mysql.com/doc/connector-python/en/) to perform the standard [CRUD functions](https://stackify.com/what-are-crud-operations/) on a database running on [MySQL Server](https://dev.mysql.com/downloads/mysql/).
+The [notebook](https://github.com/thecraigd/Python_SQL/blob/master/mysql.ipynb) takes the reader step-by-step through all the processes involved with using Python and the [MySQL Connector](https://dev.mysql.com/doc/connector-python/en/) to perform the standard [CRUD functions](https://stackify.com/what-are-crud-operations/) on a database running on [MySQL Server](https://dev.mysql.com/downloads/mysql/).
 
-This notebook uses code and data from [this repository](https://github.com/thecraigd/SQL_School_Tutorial/) which accompanies my [series of SQL Tutorials](https://towardsdatascience.com/tagged/sql-series) on [Towards Data Science](https://towardsdatascience.com/). If you are not familiar with relational databases and SQL, I recommend going through those tutorials first.
+This repository uses code and data from [this repository](https://github.com/thecraigd/SQL_School_Tutorial/) which accompanies my [series of SQL Tutorials](https://towardsdatascience.com/tagged/sql-series) on [Towards Data Science](https://towardsdatascience.com/). If you are not familiar with relational databases and SQL, I recommend going through those tutorials first.
 
 We will be implementing the same code to build the below database for the International Language School, but this time doing it via Python using MySQL Connector.
 
