@@ -1,7 +1,7 @@
 [![CraigDoesData][logo]][link]
 
 [logo]: ./img/logo.png
-[link]: https://www.craigdoesdata.de/
+[link]: https://www.craigdoesdata.com/
 
 
 # MySQL + Python for Data Analysts
