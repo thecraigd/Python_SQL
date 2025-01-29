@@ -60,4 +60,4 @@ Some participant names were created using [Fake Name Generator](https://www.fake
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thecraigd/Python_SQL/master)
 
 ## Contact
-All feedback is warmly received. Craig Dickson can be contacted at [craigdoesdata.de](https://www.craigdoesdata.de/contact.html).
+All feedback is warmly received. Craig Dickson can be contacted at [craigdoesdata.com](https://www.craigdoesdata.com/contact.html).
